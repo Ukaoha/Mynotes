@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753596705359",
+    "project_id": "xoxo-notes",
+    "storage_bucket": "xoxo-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753596705359:android:3f4075a1a506d63174583a",
+        "android_client_info": {
+          "package_name": "com.xoba.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCfdEtH3gJTkGChmQLxMplTqTfcZxjmaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
